@@ -1,0 +1,5 @@
+mkdir folder_name
+vim file_name or touch file_name
+for editing  vim file_name
+for saving :wq
+for checking the content cat file_name
